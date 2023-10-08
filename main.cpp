@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Second commit";
+    cout << "First commit";
     cout << "Git pull";
 }
