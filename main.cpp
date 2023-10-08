@@ -6,4 +6,5 @@ int main()
 {
     cout << "First commit";
     cout << "Git pull";
+    cout << "Conflicttttt";
 }
